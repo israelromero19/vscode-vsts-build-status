@@ -39,7 +39,7 @@
         "postinstall": "node ./node_modules/vscode/bin/install"
     },
     "dependencies": {
-        "node-fetch": "^1.7.1",
+        "node-fetch": "^2.6.7",
         "openurl": "^1.1.1"
     },
     "devDependencies": {
